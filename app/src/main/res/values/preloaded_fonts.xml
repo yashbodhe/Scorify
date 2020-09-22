@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/baloo</item>
+        <item>@font/sniglet</item>
+        <item>@font/sofia</item>
+        <item>@font/walter_turncoat</item>
+    </array>
+</resources>

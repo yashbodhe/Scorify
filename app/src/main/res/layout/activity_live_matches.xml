@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_image_internationalmatches"
+    tools:context=".LiveMatches">
+
+
+    <Button
+        android:id="@+id/buttonLiveMatchPage"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="212dp"
+        android:layout_height="73dp"
+        android:fontFamily="@font/walter_turncoat"
+        android:onClick="btnNewMatches"
+        android:text="Live Matches"
+        android:textColor="#93D6F5"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.89"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.84" />
+
+    <Button
+        android:id="@+id/buttonOldMatchPage"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="207dp"
+        android:layout_height="73dp"
+        android:fontFamily="@font/walter_turncoat"
+        android:onClick="btnOldMatches"
+        android:text="Old MAtches"
+        android:textColor="#93D6F5"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.871"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.949" />
+</androidx.constraintlayout.widget.ConstraintLayout>

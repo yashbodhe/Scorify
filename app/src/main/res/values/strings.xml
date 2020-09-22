@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SCORIFY</string>
+    <string name="title_activity_create_match_code">Matchcode</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="facebook_app_id">1630309647100677</string>
+    <string name="fb_login_protocol_scheme">fb1630309647100677</string>
+
+</resources>
