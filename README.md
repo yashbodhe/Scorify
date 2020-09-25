@@ -1,6 +1,7 @@
 # Scorify
 Android Application for Cricket Live Scoring using Java , XML , FireBase , Android Studio
 
+<img src="../master/Images/app_logo.png"  width="176" height="84" />
 
 ## About The Project
 Scorify provides the simplest way to do cricket scoring.
@@ -8,6 +9,7 @@ It is a Digital Scoreboard.
 It has all the features which are required for one-day and T20 cricket matches.
 It has easy to use interface to score your match. 
 The Main aim is to convert your paper scorebook to digital scorebook. 
+
 
 
 ### SignIn
