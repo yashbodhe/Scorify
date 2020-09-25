@@ -1,5 +1,5 @@
 # Scorify
-Android Application for Cricket Live Scoring
+Android Application for Cricket Live Scoring using Java , XML , FireBase , Android Studio
 
 
 ## About The Project
